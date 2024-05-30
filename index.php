@@ -17,7 +17,7 @@
 
     <div class="container">
         <div class="mt-3">
-        <h3 class="text-center">Bustami Website, Welcomes!</h3>
+        <h3 class="text-center">Bustami Website, Welcome Xia!</h3>
         </div>
         <div class="card mt-3">
             <div class="card-header bg-primary text-white">
