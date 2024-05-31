@@ -73,7 +73,7 @@
                       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
 
-                    <form method="post" action="aksi.crud.php">
+                    <form method="post" action="aksi_crud.php">
                     <div class="modal-body">                                              
                             <div class="mb-3">
                                 <label class="form-label">NIK</label>
