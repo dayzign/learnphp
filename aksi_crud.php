@@ -28,8 +28,6 @@ if(isset($_POST['bsimpan'])) {
 
     }
 
-}
-
 
 
 
